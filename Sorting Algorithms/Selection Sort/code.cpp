@@ -1,28 +1,23 @@
 #include <iostream>
 using namespace std;
 
-void bubbleSort(int arr[], int n)
-  {
+void selectionSort(int arr[], int n)
+{
     for(int i = 0; i < n - 1; i++)
     {
-        bool swapped = false;
-        for(int j = 0; j < n - i - 1; j++)
+        int min_idx = i;
+        for(int j = i + 1; j < n; j++)
         {
-            if(arr[j] > arr[j + 1])
+            if(arr[j] < arr[min_idx])
             {
-                swap(arr[j], arr[j + 1]);
-                swapped = true;
+                min_idx = j;
             }
         }
-        if(!swapped)
-        {
-            break;
-        }
+        swap(arr[i], arr[min_idx]);
     }
 }
 
-void printArray(int arr[], int n)
-{
+void printArray(int arr[], int n){
     for(int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
@@ -32,9 +27,9 @@ void printArray(int arr[], int n)
 
 int main()
 {
-    int arr[] = {64, 25, 12, 22, 11};
+    int arr[] = {29, 10, 14, 37, 13};
     int n = sizeof(arr)/sizeof(arr[0]);
-    bubbleSort(arr, n);
+    selectionSort(arr, n);
     printArray(arr, n);
     return 0;
 }
