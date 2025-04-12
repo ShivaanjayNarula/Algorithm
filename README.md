@@ -1,6 +1,6 @@
 # Algorithm Design & Implementation
 
-This repository contains the code different algorithms important for various works. The objective is to provide a collection of algorithms implemented in C++, along with their explanations, complexities, and use cases. Each algorithm is designed to solve specific computational problems and is implemented with a focus on performance and clarity.
+This repository contains the code different algorithms important for various works. The objective is to provide a collection of algorithms implemented in C++, Java, Python along with their explanations, complexities, and use cases. Each algorithm is designed to solve specific computational problems and is implemented with a focus on performance and clarity.
 
 ## Contents
 
