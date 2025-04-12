@@ -26,7 +26,7 @@ The sliding window technique is a powerful method used to solve problems related
 
 ---
 
-## 🧠 Famous Sliding Window Problems (and Patterns)
+## Famous Sliding Window Problems (and Patterns)
 
 | Problem Type                 | Examples (LeetCode/Classic)                              | Algorithm Insight                         |
 |-----------------------------|-----------------------------------------------------------|-------------------------------------------|
@@ -40,7 +40,7 @@ The sliding window technique is a powerful method used to solve problems related
 
 ---
 
-## 🚀 Popular Problems with Sliding Window Solutions
+## Popular Problems with Sliding Window Solutions
 
 - [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters) – Longest Substring Without Repeating Characters  
 - [LeetCode 76](https://leetcode.com/problems/minimum-window-substring) – Minimum Window Substring  
@@ -66,5 +66,15 @@ The sliding window technique is a powerful method used to solve problems related
 - [LeetCode 1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) – Number of Sub-arrays of Size K and Average ≥ Threshold
 
 ---
+## Revision Problems with Sliding Window Solutions
+
+- [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters) – Longest Substring Without Repeating Characters
+- [LeetCode 76](https://leetcode.com/problems/minimum-window-substring) – Minimum Window Substring
+- [LeetCode 209](https://leetcode.com/problems/minimum-size-subarray-sum) – Minimum Size Subarray Sum
+- [LeetCode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string) – Find All Anagrams in a String
+- [LeetCode 567](https://leetcode.com/problems/permutation-in-string) – Permutation in String
+- [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum) – Sliding Window Maximum
+- [LeetCode 1004](https://leetcode.com/problems/max-consecutive-ones-iii) – Max Consecutive Ones III
+- [LeetCode 1248](https://leetcode.com/problems/count-number-of-nice-subarrays) – Count Number of Nice Subarrays
 
 ### ✨ Feel free to contribute more examples or patterns!
