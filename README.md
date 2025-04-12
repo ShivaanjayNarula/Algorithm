@@ -56,7 +56,7 @@ The repository is organized by topics covered in the class, each with its own fo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ShivaanjayNarula/ADI.git
+    git clone https://github.com/ShivaanjayNarula/Algorithm.git
     ```
 2. Navigate to the specific folder to see the code and problem statements.
 
