@@ -114,9 +114,6 @@ Choose the farthest reachable step or minimum steps ahead.
 | 435. Non-overlapping Intervals | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals) |
 | 452. Minimum Number of Arrows to Burst Balloons | Medium | [Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) |
 | 56. Merge Intervals | Medium | [Link](https://leetcode.com/problems/merge-intervals) |
-| 253. Meeting Rooms II | Medium | [Link](https://leetcode.com/problems/meeting-rooms-ii) |
-| 759. Employee Free Time | Hard | [Link](https://leetcode.com/problems/employee-free-time) |
-
 ---
 
 ### 2. Jump Game Variants
@@ -180,7 +177,6 @@ Choose the farthest reachable step or minimum steps ahead.
 | Problem | Difficulty | Link |
 |---------|------------|------|
 | 1584. Min Cost to Connect All Points | Medium | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points) |
-| 1135. Connecting Cities With Minimum Cost | Medium | [Link](https://leetcode.com/problems/connecting-cities-with-minimum-cost) |
 | 684. Redundant Connection | Medium | [Link](https://leetcode.com/problems/redundant-connection) |
 | 685. Redundant Connection II | Hard | [Link](https://leetcode.com/problems/redundant-connection-ii) |
 | 1631. Path With Minimum Effort | Medium | [Link](https://leetcode.com/problems/path-with-minimum-effort) |
@@ -218,7 +214,6 @@ These are **frequently asked LeetCode greedy problems** that are great for inter
 | Remove K Digits | [LeetCode 402](https://leetcode.com/problems/remove-k-digits) |
 | Can Place Flowers | [LeetCode 605](https://leetcode.com/problems/can-place-flowers) |
 | Lemonade Change | [LeetCode 860](https://leetcode.com/problems/lemonade-change) |
-| Minimum Cost to Connect Sticks | [LeetCode 1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks) |
 | Wiggle Subsequence | [LeetCode 376](https://leetcode.com/problems/wiggle-subsequence) |
 
 ---
